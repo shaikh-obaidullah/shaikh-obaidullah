@@ -1,6 +1,6 @@
 # Shaikh Obaidullah
 
-Mathematical biology · Department of Mathematics, Florida State University
+Mathematical biology · Department of Mathematics, Florida State University · ORCID [0009-0003-8293-7816](https://orcid.org/0009-0003-8293-7816)
 
 I work on mathematical models of microbial communities and population dynamics. Much of this work asks what a simplified model can and cannot predict.
 
